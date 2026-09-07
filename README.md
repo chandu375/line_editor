@@ -7,9 +7,9 @@ The editor works entirely through the terminal and allows users to create, view,
 
 ## Team Members
 
-* CHARAN M
-* CHARAN PS
-* HARINANDAN R P
+* CHARAN M - R25EJ023
+* Kiran Raj C N - R25EJ055
+* Karibasavaraja - R25EJ050
 
 ## Features Implemented
 
